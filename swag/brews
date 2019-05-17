@@ -1,9 +1,12 @@
 asciinema
+coreutils
+direnv
 git
+kubectl
 tig
 mas
 wget
 hub
 hugo
 yarn
-rbenv
+python
